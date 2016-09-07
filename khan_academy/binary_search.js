@@ -29,4 +29,5 @@ var primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37,
 var result = doSearch(primes, 73);
 println("Found prime at index " + result);
 
+// Remove the assertion.
 //Program.assertEqual(doSearch(primes, 73), 20);
